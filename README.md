@@ -1,5 +1,5 @@
 # MxShop
-Django REST framework + vue<br />
+Django REST framework + vue 慕课网bobby老师生鲜项目<br />
 
 ## 环境
 python: 3.6.4<br /> 
